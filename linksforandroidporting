@@ -38,13 +38,6 @@ Kiitkat building
 ==============
 https://community.nxp.com/docs/DOC-101561
 
-
-ARM Gnulib Toolchains
-=====================
-
-http://zwyuan.github.io/2016/07/17/cross-compile-glib-for-android/
-
-
 Java Error:
 =========
 
@@ -70,3 +63,7 @@ Porting Boost
 =============
 http://tungchingkai.blogspot.in/2016/11/how-to-build-c-static-libraries-boost.html
 
+ARM Gnulib Toolchains
+=====================
+
+http://zwyuan.github.io/2016/07/17/cross-compile-glib-for-android/
